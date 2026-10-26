@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="640" viewBox="0 0 1320 640" role="img" aria-labelledby="title desc">
+  <title id="title">RawMarkets capital flywheel</title>
+  <desc id="desc">A conceptual five-step cycle: protect the core, deploy controlled risk, harvest volatility, capture asymmetric gains, and rebalance back to safety.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b0e"/><stop offset="1" stop-color="#141d25"/></linearGradient>
+    <linearGradient id="path" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5cf2aa"/><stop offset=".36" stop-color="#a694ff"/><stop offset=".7" stop-color="#70b5ff"/><stop offset="1" stop-color="#efc46b"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#aab7c0"/></marker>
+  </defs>
+  <rect width="1320" height="640" rx="28" fill="url(#bg)"/>
+  <text x="70" y="72" fill="#efcf83" font-family="Consolas,monospace" font-size="15" font-weight="700" letter-spacing="3">BIBLE OF WEALTH / CAPITAL FLYWHEEL</text>
+  <text x="70" y="119" fill="#f4f7f8" font-family="Arial,sans-serif" font-size="31" font-weight="700">A repeated discipline loop</text>
+  <text x="70" y="151" fill="#a3b0ba" font-family="Arial,sans-serif" font-size="16">A conceptual sequence in the interface. RawMarkets does not move funds or rebalance accounts.</text>
+  <path d="M280 282H1026Q1080 282 1080 336Q1080 390 1026 390H294Q240 390 240 444" fill="none" stroke="url(#path)" stroke-width="4" stroke-linecap="round" stroke-dasharray="11 9" marker-end="url(#arrow)" opacity=".8"/>
+  <g font-family="Arial,sans-serif">
+    <g transform="translate(76 218)">
+      <rect width="220" height="130" rx="20" fill="#0f211b" stroke="#5cf2aa" stroke-opacity=".72"/>
+      <text x="22" y="38" fill="#82edb4" font-family="Consolas,monospace" font-size="12" font-weight="700">01 / PRESERVE</text>
+      <text x="22" y="77" fill="#f5f8f7" font-size="21" font-weight="700">Protect</text><text x="22" y="104" fill="#f5f8f7" font-size="21" font-weight="700">the core</text>
+    </g>
+    <g transform="translate(330 218)">
+      <rect width="220" height="130" rx="20" fill="#1a1828" stroke="#a694ff" stroke-opacity=".72"/>
+      <text x="22" y="38" fill="#c5baff" font-family="Consolas,monospace" font-size="12" font-weight="700">02 / SIZE</text>
+      <text x="22" y="77" fill="#f5f8f7" font-size="21" font-weight="700">Deploy</text><text x="22" y="104" fill="#f5f8f7" font-size="21" font-weight="700">controlled risk</text>
+    </g>
+    <g transform="translate(584 218)">
+      <rect width="220" height="130" rx="20" fill="#121c25" stroke="#70b5ff" stroke-opacity=".74"/>
+      <text x="22" y="38" fill="#a8d8ff" font-family="Consolas,monospace" font-size="12" font-weight="700">03 / REBALANCE</text>
+      <text x="22" y="77" fill="#f5f8f7" font-size="21" font-weight="700">Harvest</text><text x="22" y="104" fill="#f5f8f7" font-size="21" font-weight="700">volatility</text>
+    </g>
+    <g transform="translate(838 218)">
+      <rect width="220" height="130" rx="20" fill="#211b16" stroke="#efc46b" stroke-opacity=".76"/>
+      <text x="22" y="38" fill="#f0d18b" font-family="Consolas,monospace" font-size="12" font-weight="700">04 / CAPTURE</text>
+      <text x="22" y="77" fill="#f5f8f7" font-size="21" font-weight="700">Capture</text><text x="22" y="104" fill="#f5f8f7" font-size="21" font-weight="700">asymmetric gains</text>
+    </g>
+    <g transform="translate(1092 218)">
+      <rect width="176" height="130" rx="20" fill="#14221e" stroke="#80d7b0" stroke-opacity=".72"/>
+      <text x="20" y="38" fill="#9ce5c5" font-family="Consolas,monospace" font-size="12" font-weight="700">05 / RESET</text>
+      <text x="20" y="77" fill="#f5f8f7" font-size="21" font-weight="700">Rebalance</text><text x="20" y="104" fill="#f5f8f7" font-size="18" font-weight="700">back to safety</text>
+    </g>
+  </g>
+  <path d="M297 283h27M551 283h27M805 283h27M1059 283h27" fill="none" stroke="#aab7c0" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M1176 350v70H180v-68" fill="none" stroke="#52616c" stroke-width="2" stroke-dasharray="5 7" marker-end="url(#arrow)"/>
+  <rect x="340" y="470" width="640" height="88" rx="18" fill="#0e1419" stroke="#303d47"/>
+  <text x="660" y="506" text-anchor="middle" fill="#a8b6c0" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="1.5">WHAT THE SOFTWARE DOES</text>
+  <text x="660" y="536" text-anchor="middle" fill="#f4f7f8" font-family="Arial,sans-serif" font-size="18">Explains the framework and collects a reader's self-check</text>
+  <text x="70" y="606" fill="#63717b" font-family="Consolas,monospace" font-size="12" letter-spacing="1.4">ILLUSTRATIVE PRINCIPLE · NO AUTOMATIC TRADING</text>
+</svg>

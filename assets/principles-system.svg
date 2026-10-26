@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="820" viewBox="0 0 1440 820" role="img" aria-labelledby="title desc">
+  <title id="title">RawMarkets principles system map</title>
+  <desc id="desc">Three principle pages render reading content and a local self-assessment. A separate Wealth Bible rule-selection path can add selected rules to the Ollama Local Copilot system prompt.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b0e"/><stop offset="1" stop-color="#121a22"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5cf2aa"/><stop offset=".52" stop-color="#70b5ff"/><stop offset="1" stop-color="#efc46b"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7c8b96"/></marker>
+    <marker id="arrowAI" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#70b5ff"/></marker>
+  </defs>
+  <rect width="1440" height="820" rx="28" fill="url(#canvas)"/>
+  <text x="72" y="72" fill="#86efb6" font-family="Consolas,monospace" font-size="16" font-weight="700" letter-spacing="3">01 / PRODUCT LOGIC MAP</text>
+  <text x="72" y="119" fill="#f4f7f8" font-family="Arial,sans-serif" font-size="34" font-weight="700">Two paths, with different jobs.</text>
+  <text x="72" y="153" fill="#a3b0ba" font-family="Arial,sans-serif" font-size="18">Reading and self-checks stay in the page. Selected Wealth Bible rules can separately inform Local Copilot.</text>
+
+  <text x="72" y="210" fill="#7d8d98" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">READER EXPERIENCE</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="72" y="235" width="350" height="132" rx="18" fill="#0f211b" stroke="#5cf2aa" stroke-opacity=".65"/>
+    <text x="98" y="275" fill="#8ef2bb" font-size="13" font-weight="700" letter-spacing="1.5">01 / INVESTOR</text>
+    <text x="98" y="311" fill="#f6f8f8" font-size="24" font-weight="700">10 laws</text>
+    <text x="98" y="341" fill="#b7c4c6" font-size="16">10 self-reported answers</text>
+    <rect x="454" y="235" width="350" height="132" rx="18" fill="#1b1829" stroke="#a694ff" stroke-opacity=".72"/>
+    <text x="480" y="275" fill="#c5baff" font-size="13" font-weight="700" letter-spacing="1.5">02 / GAMBLER</text>
+    <text x="480" y="311" fill="#f6f8f8" font-size="24" font-weight="700">10 commands + 10 sins</text>
+    <text x="480" y="341" fill="#c1bdcc" font-size="16">10 self-reported answers</text>
+    <rect x="836" y="235" width="532" height="132" rx="18" fill="#282316" stroke="#efc46b" stroke-opacity=".76"/>
+    <text x="862" y="275" fill="#f0d18b" font-size="13" font-weight="700" letter-spacing="1.5">03 / WEALTH</text>
+    <text x="862" y="311" fill="#f6f8f8" font-size="24" font-weight="700">8 laws + canons + flywheel</text>
+    <text x="862" y="341" fill="#c9c1ae" font-size="16">8 self-reported answers + shared rule catalog</text>
+  </g>
+
+  <path d="M247 367v45h904v-45M629 367v45M1102 367v45" fill="none" stroke="#65737e" stroke-width="2"/>
+  <path d="M720 412v42" fill="none" stroke="#7c8b96" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="465" y="466" width="510" height="108" rx="20" fill="#11171d" stroke="#44515b"/>
+  <text x="720" y="505" text-anchor="middle" fill="#dce4e9" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="1.5">LOCAL PAGE STATE</text>
+  <text x="720" y="542" text-anchor="middle" fill="#f4f7f8" font-family="Arial,sans-serif" font-size="21" font-weight="700">Answer count → displayed score</text>
+  <text x="720" y="564" text-anchor="middle" fill="#9aa8b2" font-family="Arial,sans-serif" font-size="14">No portfolio or trade history is scored by these diagnostics.</text>
+
+  <path d="M1102 367v238h-249v28" fill="none" stroke="#70b5ff" stroke-width="2" stroke-dasharray="7 7" marker-end="url(#arrowAI)"/>
+  <text x="1120" y="434" fill="#86c7ff" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="1.2">OPTIONAL AI CONTEXT</text>
+  <rect x="173" y="633" width="265" height="112" rx="18" fill="#161b20" stroke="#5e6a74"/>
+  <text x="197" y="671" fill="#f4f7f8" font-family="Arial,sans-serif" font-size="18" font-weight="700">Rule settings</text>
+  <text x="197" y="700" fill="#aab6be" font-family="Arial,sans-serif" font-size="14">Enable + choose rule IDs</text>
+  <text x="197" y="723" fill="#71818d" font-family="Consolas,monospace" font-size="12">Wealth Bible only</text>
+  <rect x="488" y="633" width="365" height="112" rx="18" fill="#111a22" stroke="#70b5ff" stroke-opacity=".72"/>
+  <text x="512" y="671" fill="#a8d8ff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Resolve, sort, fit</text>
+  <text x="512" y="700" fill="#b2c0c9" font-family="Arial,sans-serif" font-size="14">Known rules · priority order</text>
+  <text x="512" y="723" fill="#71818d" font-family="Consolas,monospace" font-size="12">8,000 character limit</text>
+  <rect x="903" y="633" width="365" height="112" rx="18" fill="#0c1c25" stroke="#70b5ff" stroke-opacity=".72"/>
+  <text x="927" y="671" fill="#a8d8ff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Ollama Local Copilot</text>
+  <text x="927" y="700" fill="#b2c0c9" font-family="Arial,sans-serif" font-size="14">Principles + platform context</text>
+  <text x="927" y="723" fill="#71818d" font-family="Consolas,monospace" font-size="12">Model context, not enforcement</text>
+  <path d="M438 689h44M853 689h44" fill="none" stroke="url(#line)" stroke-width="2.5" marker-end="url(#arrowAI)"/>
+  <text x="72" y="790" fill="#63717b" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5">CONCEPTUAL GUIDANCE · NO BROKER EXECUTION</text>
+</svg>
