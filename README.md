@@ -8,7 +8,7 @@
   [How it works](#how-it-works) · [Investor's Bible](docs/INVESTORS-BIBLE.md) · [Gambler's Bible](docs/GAMBLERS-BIBLE.md) · [Bible of Wealth](docs/BIBLE-OF-WEALTH.md) · [Engineering flow](docs/ENGINEERING-FLOW.md)
 </div>
 
-RawMarkets includes three principle-led reading experiences. This companion project explains what each one teaches, what its interactive controls calculate, and how a selected subset of Wealth Bible rules can shape the local copilot prompt.
+RawMarkets includes three principle-led reading experiences. The Investor's and Gambler's Bibles intentionally present different risk postures. The Bible of Wealth brings their complementary ideas into a balanced framework for stock-market use. This companion project explains what each one teaches, what its interactive controls calculate, and how a selected subset of Wealth Bible rules can shape the local copilot prompt.
 
 <p align="center">
   <img src="assets/principles-system.svg" alt="Diagram showing the three RawMarkets bibles, self-reported diagnostics, and the optional Wealth Bible rule path into Local Copilot" width="100%" />

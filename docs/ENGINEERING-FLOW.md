@@ -66,11 +66,10 @@ Implementation details:
 - The product has no brokerage order path in these pages. Nothing here submits, edits, or cancels trades.
 - The page labels and risk bands are user-interface copy. They are not clinical, actuarial, or audited measurements.
 
-## Known editorial seams
+## Framework distinction and editorial seam
 
-The source currently contains two explicit differences between related texts:
+The separate Kelly fractions represent the frameworks' intended risk postures. The Gambler's Bible presents a quarter-Kelly cap for its higher-variance approach. The Wealth Bible uses Half Kelly within a stock-market balance of risk deployment and capital preservation. These are not one global sizing rule.
 
-1. The Investor's Bible Law VII says five years, while its diagnostic says three or more years.
-2. The Gambler's protocol describes a quarter-Kelly cap, while Wealth Bible Investor Pillar C describes Half Kelly.
+One same-page wording difference remains in the Investor's Bible:
 
-These are documented as visible product differences. A future content pass should decide which statement governs and update the source consistently.
+The Investor's Bible Law VII says five years, while its diagnostic says three or more years. The source contains both thresholds. A future copy pass can align that diagnostic with the law.

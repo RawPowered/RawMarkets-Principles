@@ -1,6 +1,6 @@
 # Bible of Wealth
 
-The Bible of Wealth is the product's synthesis page. It puts capital preservation and controlled risk on one screen, using a shared rule catalog for its interface and an optional Local Copilot context.
+The Bible of Wealth is the product's synthesis page. It balances the Investor's preservation-first approach with the Gambler's controlled risk-taking approach for stock-market participation. It uses a shared rule catalog for its interface and optional Local Copilot context.
 
 ## Page structure
 
@@ -10,6 +10,8 @@ The Bible of Wealth is the product's synthesis page. It puts capital preservatio
 4. **Eight Laws:** survive first, size from edge, favor utility, keep a safe core, harvest volatility, avoid ruinous leverage, master psychology, and rebalance gains.
 5. **Long-Horizon Capital Stack:** five target ranges for public equities, private equity and venture, productive land, collectibles and real assets, and liquidity.
 6. **Wealth Architecture Adherence:** eight yes-or-no prompts scored from 0 to 8.
+
+In that balance, the Gambler's quarter-Kelly cap belongs to its higher-variance canon. The Wealth Bible's Half-Kelly pillar is the moderated position within the stock-market synthesis. The page combines controlled risk with protection of the core and a return path to safety.
 
 ## What the capital flywheel depicts
 

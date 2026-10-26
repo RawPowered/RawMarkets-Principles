@@ -28,9 +28,9 @@ The 10 self-reported answers produce a 0 to 100 score in ten-point increments. T
 
 Answers, score, and pinned commandments live in component state. The current page does not persist them to the database.
 
-## Kelly wording differs across the product
+## Its risk posture in the wider framework
 
-The Gambler's protocol describes a quarter-Kelly cap. The shared Wealth Bible Investor Pillar C describes Half Kelly. The two pages therefore express different sizing conventions. They should be read as separate educational statements until the product owner reconciles them.
+The quarter-Kelly cap belongs to the Gambler's higher-variance approach. The Investor's Bible centers preservation and a longer horizon. The Bible of Wealth balances ideas from both for stock-market participation. Its Half-Kelly pillar is the moderated sizing posture within that synthesis. The different fractions reflect different roles in the framework, rather than a single rule applied everywhere.
 
 ## Code
 
